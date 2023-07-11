@@ -18,3 +18,6 @@ https://github.com/bertaye/ShaderCollection/assets/39909689/3574e0af-0de7-4115-a
 ### Reflection with CubeMaps Shader:
 
 ![image](https://github.com/bertaye/ShaderCollection/assets/39909689/687fa935-8e92-491b-ab15-19b371535ae0)
+
+### Outline:
+![image](https://github.com/bertaye/ShaderCollection/assets/39909689/e2295214-60dc-40e1-8deb-77804b6df74e)
